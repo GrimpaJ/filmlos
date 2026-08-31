@@ -1,0 +1,102 @@
+title,year,runtime_min,attention,weight,tension,action,humor,ending,genre,setting,themes,series,style,source
+12 Angry Men,1957,96,3,2,2,1,1,Positive,Drama,Historical,Social Critique|Power & Politics,No,Mixed,Creator's Choice
+28 Days Later,2002,113,2,3,3,2,1,Bleak,Horror|Thriller,Modern,Survival,No,Mixed,Creator's Choice
+A House of Dynamite,2025,112,3,3,3,1,1,Bleak,Thriller,Modern,War|Power & Politics|Survival,No,Mainstream,Creator's Choice
+Aftersun,2022,102,3,3,1,1,1,Bittersweet,Drama,Modern,Family|Grief & Loss|Mental Health,No,Indie,Creator's Choice
+All of Us Strangers,2023,105,2,3,1,1,1,Bleak,Drama|Romance|Fantasy,Modern,Grief & Loss|Family|LGBTQ+|Isolation & Loneliness,No,Indie,Creator's Choice
+American History X,1998,119,3,3,2,1,1,Bittersweet,Drama,Modern,Violence & Crime|Family|Social Critique,No,Mixed,Creator's Choice
+American Hustle,2013,138,2,2,2,1,2,Bittersweet,Drama|Comedy|Crime,Historical,Power & Politics|Love & Relationships,No,Mainstream,Creator's Choice
+Anchorman,2004,94,1,1,1,1,3,Positive,Comedy,Historical,Friendship,No,Mainstream,Creator's Choice
+Anora,2024,139,2,2,2,1,2,Bittersweet,Drama|Comedy|Romance,Modern,Love & Relationships|Social Critique,No,Indie,Creator's Choice
+Another Round,2020,117,2,2,1,1,2,Bittersweet,Drama|Comedy,Modern,Addiction|Friendship,No,Indie,Creator's Choice
+Arrival,2016,116,3,2,2,1,1,Bittersweet,Sci-Fi|Drama,Modern,Family|Identity,No,Mainstream,Creator's Choice
+Baraka,1992,97,1,2,1,1,1,Positive,Documentary,Modern,Social Critique,No,Indie,Creator's Choice
+Barbie,2023,114,1,1,1,2,3,Positive,Comedy|Fantasy,Fantasy World,Identity|Social Critique,No,Mainstream,Creator's Choice
+Before Sunrise,1995,101,2,1,1,1,1,Bittersweet,Romance|Drama,Modern,Love & Relationships,No,Indie,Creator's Choice
+Birdman,2014,119,3,3,2,1,2,Bittersweet,Drama|Comedy,Modern,Art & Music|Identity|Mental Health,No,Mixed,Creator's Choice
+Blade Runner,1982,117,3,2,2,1,1,Bleak,Sci-Fi|Thriller,Future,Identity,No,Mixed,Creator's Choice
+Boogie Nights,1997,155,2,3,2,1,2,Bleak,Drama,Historical,Addiction|Family|Art & Music,No,Mixed,Creator's Choice
+Call Me by Your Name,2017,132,2,2,1,1,1,Bittersweet,Drama|Romance,Historical,Love & Relationships|LGBTQ+|Coming-of-Age,No,Indie,Creator's Choice
+Challengers,2024,131,2,2,2,1,1,Bittersweet,Drama|Romance,Modern,Love & Relationships|Friendship,No,Mainstream,Creator's Choice
+Close,2022,104,3,3,1,1,1,Bleak,Drama,Modern,Friendship|Grief & Loss|Coming-of-Age,No,Indie,Creator's Choice
+Die My Love,2025,119,2,3,2,1,1,Bleak,Drama|Thriller|Comedy,Modern,Mental Health|Family|Love & Relationships,No,Indie,Creator's Choice
+Django Unchained,2012,165,2,3,3,3,2,Positive,Western|Action|Drama,Historical,Violence & Crime|Revenge|Social Critique,No,Mainstream,Creator's Choice
+Don't Look Up,2021,138,2,2,1,1,3,Bleak,Comedy|Sci-Fi|Drama,Modern,Social Critique|Power & Politics,No,Mainstream,Creator's Choice
+Drive,2011,100,2,3,3,2,1,Bleak,Thriller|Crime,Modern,Love & Relationships|Violence & Crime|Isolation & Loneliness,No,Indie,Creator's Choice
+Dune,2021,155,2,2,2,2,1,Bittersweet,Sci-Fi|Adventure,Future,Power & Politics|Family,Yes,Mainstream,Creator's Choice
+Dunkirk,2017,106,3,3,3,2,1,Bittersweet,War|Thriller,Historical|War,War|Survival,No,Mainstream,Creator's Choice
+EO,2022,88,2,3,1,1,1,Bleak,Drama,Modern,Social Critique,No,Indie,Creator's Choice
+Eternal Sunshine of the Spotless Mind,2004,108,3,2,1,1,2,Bittersweet,Drama|Romance|Sci-Fi,Modern,Love & Relationships|Identity,No,Indie,Creator's Choice
+Everything Everywhere All at Once,2022,140,3,2,2,3,3,Positive,Sci-Fi|Comedy|Action|Drama,Modern,Family|Identity,No,Indie,Creator's Choice
+Ex Machina,2014,108,3,2,3,1,1,Bleak,Sci-Fi|Thriller,Modern,Identity,No,Indie,Creator's Choice
+Fight Club,1999,139,3,3,2,2,2,Bleak,Drama|Thriller,Modern,Identity|Social Critique|Violence & Crime,No,Mainstream,Creator's Choice
+Fresh,2022,114,2,3,3,1,2,Bleak,Horror|Thriller|Romance,Modern,Love & Relationships|Violence & Crime,No,Mixed,Creator's Choice
+Hamnet,2025,126,3,3,1,1,1,Bleak,Drama|Romance,Historical,Family|Grief & Loss|Art & Music,No,Mixed,Creator's Choice
+Hot Fuzz,2007,121,1,1,2,2,3,Positive,Comedy|Action|Crime,Modern,Friendship,No,Mixed,Creator's Choice
+In Bruges,2008,107,2,2,2,2,3,Bleak,Crime|Comedy|Drama,Modern,Friendship|Violence & Crime|Grief & Loss,No,Mixed,Creator's Choice
+Inception,2010,148,3,2,3,3,1,Bittersweet,Sci-Fi|Thriller|Action,Modern,Identity|Family,No,Mainstream,Creator's Choice
+Inglourious Basterds,2009,153,3,3,3,2,2,Positive,War|Thriller,Historical|War,War|Revenge,No,Mainstream,Creator's Choice
+Interstellar,2014,169,3,2,3,2,1,Bittersweet,Sci-Fi|Drama|Adventure,Future,Family|Survival,No,Mainstream,Creator's Choice
+John Wick,2014,101,1,2,3,3,1,Positive,Action|Thriller,Modern,Revenge,No,Mainstream,Creator's Choice
+Jojo Rabbit,2019,108,2,2,1,1,3,Bittersweet,Comedy|Drama|War,Historical|War,War|Family,No,Mixed,Creator's Choice
+Kick-Ass,2010,117,1,2,2,3,2,Positive,Action|Comedy,Modern,Identity,No,Mainstream,Creator's Choice
+Kill Bill (Vol. 1 & 2),2003,247,2,2,3,3,2,Positive,Action|Thriller,Modern,Revenge,Yes,Mainstream,Creator's Choice
+Knives Out,2019,130,2,1,2,1,3,Positive,Crime|Comedy|Mystery,Modern,Family,No,Mainstream,Creator's Choice
+La La Land,2016,128,1,2,1,1,1,Bittersweet,Musical|Romance|Drama,Modern,Love & Relationships|Art & Music,No,Mainstream,Creator's Choice
+Lady Bird,2017,94,2,2,1,1,2,Bittersweet,Drama|Comedy,Modern,Coming-of-Age|Family,No,Indie,Creator's Choice
+Little Miss Sunshine,2006,101,1,2,1,1,3,Positive,Comedy|Drama,Modern,Family,No,Indie,Creator's Choice
+Manchester by the Sea,2016,137,2,3,1,1,1,Bleak,Drama,Modern,Grief & Loss|Family|Isolation & Loneliness,No,Indie,Creator's Choice
+Me and Earl and the Dying Girl,2015,105,1,2,1,1,2,Bittersweet,Drama|Comedy,Modern,Friendship|Grief & Loss|Coming-of-Age,No,Indie,Creator's Choice
+Nocturnal Animals,2016,116,3,3,3,1,1,Bleak,Thriller|Drama,Modern,Revenge|Love & Relationships|Violence & Crime,No,Mixed,Creator's Choice
+Ocean's Eleven,2001,116,2,1,2,1,3,Positive,Crime|Comedy,Modern,Friendship,No,Mainstream,Creator's Choice
+Once Upon a Time in Hollywood,2019,161,2,2,1,1,2,Bittersweet,Drama|Comedy,Historical,Friendship|Art & Music,No,Mainstream,Creator's Choice
+Oppenheimer,2023,180,3,3,2,1,1,Bleak,Drama|Biopic,Historical,War|Power & Politics,No,Mainstream,Creator's Choice
+Parasite,2019,132,3,3,3,2,2,Bleak,Drama|Thriller|Comedy,Modern,Social Critique|Family,No,Mixed,Creator's Choice
+Past Lives,2023,105,2,2,1,1,1,Bittersweet,Drama|Romance,Modern,Love & Relationships|Identity,No,Indie,Creator's Choice
+Poor Things,2023,141,2,2,1,1,3,Positive,Comedy|Drama|Sci-Fi,Historical,Identity|Social Critique,No,Mixed,Creator's Choice
+Portrait of a Lady on Fire,2019,122,3,2,1,1,1,Bittersweet,Drama|Romance,Historical,Love & Relationships|LGBTQ+|Art & Music,No,Indie,Creator's Choice
+Prisoners,2013,153,3,3,3,1,1,Bleak,Thriller|Crime|Drama,Modern,Family|Violence & Crime,No,Mainstream,Creator's Choice
+Promising Young Woman,2020,113,2,3,3,1,2,Bleak,Thriller|Drama|Crime,Modern,Revenge|Violence & Crime|Social Critique,No,Mixed,Creator's Choice
+Punch-Drunk Love,2002,95,2,2,1,1,2,Positive,Romance|Comedy|Drama,Modern,Love & Relationships|Isolation & Loneliness,No,Indie,Creator's Choice
+Raw,2016,99,2,3,3,1,1,Bleak,Horror|Drama,Modern,Coming-of-Age|Family,No,Indie,Creator's Choice
+Requiem for a Dream,2000,102,3,3,3,1,1,Bleak,Drama,Modern,Addiction|Family,No,Indie,Creator's Choice
+Schindler's List,1993,195,3,3,2,1,1,Bittersweet,Drama|Biopic|War,Historical|War,War|Social Critique,No,Mainstream,Creator's Choice
+Seven Psychopaths,2012,110,2,2,2,2,3,Positive,Comedy|Crime|Action,Modern,Violence & Crime|Friendship,No,Mixed,Creator's Choice
+Shaun of the Dead,2004,99,1,1,2,2,3,Positive,Comedy|Horror,Modern,Friendship,No,Indie,Creator's Choice
+Shutter Island,2010,138,3,3,3,1,1,Bleak,Thriller|Mystery,Historical,Mental Health|Identity,No,Mainstream,Creator's Choice
+Sicario,2015,121,3,3,3,2,1,Bleak,Thriller|Crime,Modern,Violence & Crime|Power & Politics,No,Mixed,Creator's Choice
+Spider-Man: Into the Spider-Verse,2018,117,2,1,2,3,2,Positive,Animation|Action,Modern,Identity|Family,No,Mainstream,Creator's Choice
+"Star Wars (Complete Saga, 9 films)",1977,1340,2,1,2,3,2,Positive,Sci-Fi|Adventure|Fantasy,Fantasy World,Family|Power & Politics,Yes,Mainstream,Creator's Choice
+Swiss Army Man,2016,97,2,2,1,1,3,Bittersweet,Comedy|Drama|Fantasy,Modern,Isolation & Loneliness|Friendship,No,Indie,Creator's Choice
+System Crasher,2019,118,3,3,2,1,1,Bleak,Drama,Modern,Mental Health|Family|Coming-of-Age,No,Indie,Creator's Choice
+Taxi Driver,1976,114,3,3,2,2,1,Bleak,Drama|Thriller,Historical,Isolation & Loneliness|Mental Health|Violence & Crime,No,Mixed,Creator's Choice
+Tenet,2020,150,3,2,3,3,1,Bittersweet,Sci-Fi|Action|Thriller,Modern,War|Survival,No,Mainstream,Creator's Choice
+The Banshees of Inisherin,2022,114,2,3,1,1,2,Bleak,Drama|Comedy,Historical,Friendship|Isolation & Loneliness,No,Indie,Creator's Choice
+The Big Lebowski,1998,117,1,1,1,1,3,Positive,Comedy|Crime,Modern,Friendship,No,Mixed,Creator's Choice
+The Collini Case,2019,123,2,3,2,1,1,Bleak,Drama|Crime,Historical,War|Family|Social Critique,No,Mixed,Creator's Choice
+The Dark Knight,2008,152,2,2,3,3,2,Bleak,Action|Thriller|Crime,Modern,Violence & Crime|Power & Politics,No,Mainstream,Creator's Choice
+The Departed,2006,151,3,3,3,2,2,Bleak,Crime|Thriller|Drama,Modern,Identity|Violence & Crime,No,Mainstream,Creator's Choice
+The Drama,2026,105,2,2,2,1,2,Bleak,Comedy|Drama|Romance,Modern,Love & Relationships|Social Critique,No,Mixed,Creator's Choice
+The Favourite,2018,119,2,2,1,1,3,Bleak,Drama|Comedy,Historical,Power & Politics|Love & Relationships,No,Mixed,Creator's Choice
+The Florida Project,2017,111,2,3,1,1,1,Bleak,Drama,Modern,Family|Social Critique,No,Indie,Creator's Choice
+The Grand Budapest Hotel,2014,100,1,1,1,2,3,Bittersweet,Comedy|Drama|Adventure,Historical,Friendship|War,No,Mixed,Creator's Choice
+The Hangover,2009,100,1,1,1,1,3,Positive,Comedy,Modern,Friendship,No,Mainstream,Creator's Choice
+The Hunt,2012,115,3,3,3,1,1,Bleak,Drama,Modern,Family|Friendship|Social Critique,No,Indie,Creator's Choice
+The King of Staten Island,2020,137,1,2,1,1,2,Bittersweet,Comedy|Drama,Modern,Grief & Loss|Family,No,Mixed,Creator's Choice
+The Lobster,2015,118,3,3,1,1,2,Bleak,Comedy|Drama|Sci-Fi,Modern,Love & Relationships|Social Critique,No,Indie,Creator's Choice
+The Master,2012,138,3,3,2,1,1,Bleak,Drama,Historical,Identity|Mental Health|Power & Politics,No,Indie,Creator's Choice
+The Raid,2011,101,1,3,3,3,1,Positive,Action|Thriller,Modern,Survival,No,Indie,Creator's Choice
+The Social Network,2010,120,2,2,2,1,2,Bittersweet,Drama|Biopic,Modern,Power & Politics|Friendship,No,Mainstream,Creator's Choice
+The Substance,2024,141,2,3,3,1,2,Bleak,Horror|Sci-Fi,Modern,Mental Health|Social Critique,No,Indie,Creator's Choice
+The Whale,2022,117,2,3,1,1,1,Bittersweet,Drama,Modern,Family|Mental Health|Isolation & Loneliness,No,Indie,Creator's Choice
+The Wolf of Wall Street,2013,180,2,2,1,1,3,Bleak,Drama|Comedy|Biopic,Modern,Addiction|Power & Politics,No,Mainstream,Creator's Choice
+The Worst Person in the World,2021,128,2,2,1,1,2,Bittersweet,Drama|Comedy|Romance,Modern,Identity|Love & Relationships|Coming-of-Age,No,Indie,Creator's Choice
+"Three Billboards Outside Ebbing, Missouri",2017,115,2,3,2,1,2,Bittersweet,Drama|Comedy|Crime,Modern,Grief & Loss|Violence & Crime,No,Indie,Creator's Choice
+Trainspotting,1996,94,2,3,2,1,2,Bittersweet,Drama|Comedy,Historical,Addiction|Friendship|Social Critique,No,Indie,Creator's Choice
+Triangle of Sadness,2022,147,2,3,1,1,2,Bleak,Comedy|Drama,Modern,Social Critique,No,Indie,Creator's Choice
+Turkish for Beginners,2012,90,1,1,1,1,3,Positive,Comedy,Modern,Family|Identity,No,Mixed,Creator's Choice
+Tár,2022,158,3,3,2,1,1,Bleak,Drama,Modern,Power & Politics|Art & Music,No,Indie,Creator's Choice
+Uncut Gems,2019,135,3,3,3,1,1,Bleak,Thriller|Drama|Crime,Modern,Addiction,No,Indie,Creator's Choice
+Vice,2018,132,2,2,1,1,2,Bleak,Drama|Comedy|Biopic,Historical,Power & Politics|Social Critique,No,Mainstream,Creator's Choice
+Whiplash,2014,106,3,3,3,1,1,Bleak,Drama|Musical,Modern,Art & Music|Isolation & Loneliness,No,Indie,Creator's Choice
+Zero Dark Thirty,2012,157,3,3,3,2,1,Bleak,Thriller|Drama,Modern,War|Power & Politics,No,Mainstream,Creator's Choice

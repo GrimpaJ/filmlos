@@ -1,0 +1,18 @@
+{
+  "lists": [
+    {
+      "file": "essentials.csv",
+      "name": "Essentials",
+      "description": "A broad, mainstream-leaning cross-section: blockbusters, animation, classics, comedy, horror and a handful of European films. A good default when the group has mixed taste.",
+      "count": 165,
+      "default": true
+    },
+    {
+      "file": "creators-choice.csv",
+      "name": "Creator's Choice",
+      "description": "Personal favourites of the project author: more indie, more drama, more recent arthouse. Combine it with Essentials or use it on its own.",
+      "count": 101,
+      "default": false
+    }
+  ]
+}

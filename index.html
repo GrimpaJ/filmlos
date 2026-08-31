@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Filmlos — pick a film by mood, not by title</title>
+<meta name="description" content="Filter films by runtime, mood, tension and themes. Titles stay hidden until you ask for them, so you choose how you feel instead of scrolling a list.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Work+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/filmlos.css">
+</head>
+<body>
+
+<div class="sprocket"></div>
+<header>
+  <h1>Filmlos</h1>
+  <p>Set the criteria, not the title. Names stay hidden until you want to see them — so you decide by mood, not by scrolling a list.</p>
+  <div id="reload-row">
+    <span id="loaded-info" style="color:var(--text-faint); font-size:.8rem;"></span>
+    <button class="ghost-btn" id="add-list-btn">+ Add another list</button>
+    <button class="ghost-btn" id="reset-lists-btn">Clear all lists</button>
+  </div>
+</header>
+
+<div id="statusbar">
+  <div class="inner">
+    <div class="dial" id="dial" style="--pct:0"><span id="dial-num">0</span></div>
+    <div class="count-label">Matches<b id="count-text">0 of 0 films</b></div>
+    <div class="spacer"></div>
+    <button class="action-btn" id="reset-btn">Reset filters</button>
+    <button class="action-btn" id="random-btn">🎲 Surprise us</button>
+    <button class="action-btn gold" id="reveal-btn">Show matches</button>
+  </div>
+</div>
+
+<main>
+  <div id="start">
+    <section id="bundled">
+      <h2>Start with a ready-made list</h2>
+      <p>Pick one or more of the lists that ship with Filmlos. You can combine them and add your own CSV on top.</p>
+      <div id="bundled-lists"></div>
+      <button class="primary-btn" id="load-bundled-btn">Load selected lists</button>
+    </section>
+
+    <div id="loader">
+      <div class="icon">🎞️</div>
+      <h2>Load your own list</h2>
+      <p>
+        Pick one or more CSV files (or drop them here). Every file becomes its own list you can
+        switch on and off, and identical titles are only counted once.
+        <span id="offline-note" style="display:none;">
+          <br><br><b>Opened straight from disk?</b> Browsers block the bundled lists over
+          <code>file://</code>. Pick the files in <code>lists/</code> by hand, or serve the folder
+          with <code>python -m http.server</code> and open <code>http://localhost:8000</code>.
+        </span>
+      </p>
+      <button class="primary-btn" id="browse-btn">Choose CSV file(s)</button>
+      <input type="file" id="file-input" accept=".csv,text/csv" multiple>
+      <div id="loader-error"></div>
+    </div>
+  </div>
+
+  <div id="filters"></div>
+  <div id="reset-row"></div>
+</main>
+
+<div id="overlay">
+  <div class="overlay-head">
+    <h2 id="overlay-title">Matches</h2>
+    <button id="close-overlay" aria-label="Close">✕</button>
+  </div>
+  <div id="results-grid"></div>
+  <div id="empty-state" style="display:none;">
+    <div class="icon">🍿</div>
+    <div>No films match this combination.<br>Drop a filter and try again.</div>
+  </div>
+</div>
+
+<footer>
+  Ratings live in the CSV files — edit them in any spreadsheet app and reload.
+  Once several lists are loaded, “Film list” lets you toggle each one on and off.<br>
+  <a href="https://github.com/GrimpaJ/filmlos">Source &amp; film lists on GitHub</a>
+</footer>
+<div class="sprocket"></div>
+
+<script src="assets/filmlos.js"></script>
+</body>
+</html>

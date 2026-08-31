@@ -1,0 +1,10 @@
+# Normalise line endings: LF in the repository, native on checkout.
+* text=auto
+
+# Keep the data files diffable as plain text on every platform.
+*.csv text
+*.json text
+*.md text
+*.html text
+*.css text
+*.js text

@@ -1,0 +1,31 @@
+# OS cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Spreadsheet lock files (created while a CSV is open in Excel/LibreOffice)
+~$*
+.~lock.*#
+
+# Local scratch work — keep private lists and experiments out of the repo
+scratch/
+private/
+*.local.csv
+
+# Python (local http.server / helper scripts)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node, in case tooling ever shows up
+node_modules/
+npm-debug.log*

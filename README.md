@@ -14,9 +14,6 @@ can edit in a spreadsheet.
 
 Open **https://grimpaj.github.io/filmlos/** — the bundled lists load straight in the browser.
 
-<sub>(If that 404s, enable GitHub Pages for this repo: *Settings → Pages → Source: Deploy from a
-branch → `main` / `root`*.)</sub>
-
 ## Run it locally
 
 Because browsers block `fetch()` on `file://`, the bundled lists only load when the folder is
